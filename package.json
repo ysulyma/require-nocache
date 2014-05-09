@@ -1,0 +1,12 @@
+{
+  "name": "require-nocache",
+  "version": "1.0.0",
+  "description": "Non-caching require() for Node.js",
+  "author": "Yuri Sulyma <yuri@sulyma.ca>",
+  "bugs": "https://github.com/yuri0/require-nocache/issues",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/yuri0/require-nocache.git"
+  }
+}
